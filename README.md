@@ -1,4 +1,4 @@
-# trabSo
+# Logger de Chamadas de Sistema (Syscalls)
 antes de rodar crie o syscall_names.h
 
 instale auditd
